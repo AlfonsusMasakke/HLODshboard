@@ -1,4 +1,4 @@
-# 🛬 Bandara Haluoleo Dashboard
+# 🛬 Bandara Dashboard
 
 <div align="center">
 
@@ -11,9 +11,6 @@
 
 </div>
 
-## 🎯 Overview
-
-Dashboard manajemen pendapatan real-time untuk Bandara Haluoleo Kendari dengan fitur analitik lengkap, visualisasi data interaktif, dan sistem manajemen mitra terintegrasi.
 
 ## ✨ Features
 
